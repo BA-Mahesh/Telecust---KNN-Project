@@ -48,3 +48,5 @@ c. If performance is not upto the mark, use performance optimization (Dimensiona
 
 ## Summary :
 Successfully built the KNN model and tested, found that the accuray in not that great and hence, further performance optimization is required like (Dimensionality Reduction, HPO, Change the ML algorithm)
+
+Note : I have solved this case study just to "build and understand the KNN". (Helpful for Beginners to understand the concept)
